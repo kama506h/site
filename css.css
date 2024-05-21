@@ -1,0 +1,139 @@
+#c1{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 8px;
+}
+#c5{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: 100px;
+}
+
+
+body{
+
+position: absolute;
+width: 297px;
+height: 842px;
+left: 0px;
+top: 0px;
+
+background: #afdafc;
+
+}
+h1{
+
+position: absolute;
+width: 131px;
+height: 81px;
+left: 169px;
+top: 83px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+}
+.a1{
+
+position: absolute;
+width: 271px;
+height: 209px;
+left: 315px;
+top: 45px;
+
+background: #dcd0ff;
+
+}
+.a2{
+
+position: absolute;
+width: 248px;
+height: 171px;
+left: 315px;
+top: 274px;
+
+background: #dcd0ff;
+}
+.a3{
+
+position: absolute;
+width: 248px;
+height: 130px;
+left: 315px;
+top: 480px;
+
+background: #dcd0ff;
+}
+.a4{
+
+position: absolute;
+width: 248px;
+height: 95px;
+left: 315px;
+top: 652px;
+
+background: #dcd0ff;
+
+}
+.b1{
+
+position: absolute;
+width: 279px;
+height: 106px;
+left: 8px;
+top: 170px;
+
+background: dcd0ff;
+
+} 
+.b2{
+
+position: absolute;
+width: 279px;
+height: 75px;
+left: 8px;
+top: 290px;
+
+background: #dcd0ff;
+
+}
+.b3{
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 375px;
+
+background: #dcd0ff;
+}
+.b4{
+
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 517px;
+
+background: #dcd0ff;
+
+}
+.b5{
+
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 682px;
+
+background: #dcd0ff;
+
+}
